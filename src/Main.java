@@ -7,7 +7,7 @@ public class Main {
         System.out.println(Arrays.toString(sortList(array)));
     }
 
-    public static int[] sortList (int[] arr){
+    public static int[] sortList(int[] arr) {
 
         Arrays.sort(arr);
         return arr;
